@@ -1,10 +1,11 @@
 import { ErrorBoundary, type FallbackProps } from "react-error-boundary"
 
 function DefaultFallback({ error, resetErrorBoundary }: FallbackProps) {
+  const message = error instanceof Error ? error.message : String(error);
   return (
     <div role="alert">
       <p>Something went wrong:</p>
-      <pre>{error?.message}</pre>
+      <pre>{message}</pre>
       <button onClick={resetErrorBoundary}>Try again</button>
     </div>
   )

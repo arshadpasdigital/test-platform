@@ -1,10 +1,11 @@
 import { ErrorBoundary, type FallbackProps } from "react-error-boundary"
 
 function RouteFallback({ error, resetErrorBoundary }: FallbackProps) {
+  const message = error instanceof Error ? error.message : String(error);
   return (
     <div role="alert">
       <p>Page error:</p>
-      <pre>{error?.message}</pre>
+      <pre>{message}</pre>
       <button onClick={resetErrorBoundary}>Reload page</button>
     </div>
   )
