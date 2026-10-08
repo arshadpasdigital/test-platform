@@ -1,0 +1,107 @@
+{
+  "meta": {
+    "title": "General Knowledge Mock Test",
+    "subject": "General Knowledge",
+    "durationMinutes": 15,
+    "marksPerQuestion": 1,
+    "negativeMarking": 0
+  },
+  "questions": [
+    {
+      "id": "q1",
+      "question": "Which planet is known as the Red Planet?",
+      "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+      "answer": 1,
+      "explanation": "Mars appears red because its surface is rich in iron oxide, commonly known as rust.",
+      "mnemonic": "Red = Rusty = MaRS."
+    },
+    {
+      "id": "q2",
+      "question": "What is the chemical symbol for gold?",
+      "options": ["Go", "Gd", "Au", "Ag"],
+      "answer": 2,
+      "explanation": "Gold's symbol Au comes from its Latin name 'aurum'. Ag is silver, from 'argentum'.",
+      "mnemonic": "'Aurum' — A for the first letter pair AU of gold."
+    },
+    {
+      "id": "q3",
+      "question": "Who wrote the play 'Romeo and Juliet'?",
+      "options": ["Charles Dickens", "William Shakespeare", "John Keats", "Jane Austen"],
+      "answer": 1,
+      "explanation": "William Shakespeare wrote 'Romeo and Juliet' around 1595 as a tragedy about two young lovers.",
+      "mnemonic": "Shake a spear at the star-crossed lovers."
+    },
+    {
+      "id": "q4",
+      "question": "How many continents are there on Earth?",
+      "options": ["5", "6", "7", "8"],
+      "answer": 2,
+      "explanation": "There are seven continents: Asia, Africa, North America, South America, Antarctica, Europe and Australia.",
+      "mnemonic": "A-A-N-S-A-E-A — seven letters for seven continents."
+    },
+    {
+      "id": "q5",
+      "question": "Which gas do plants primarily absorb for photosynthesis?",
+      "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+      "answer": 2,
+      "explanation": "Plants take in carbon dioxide and release oxygen during photosynthesis.",
+      "mnemonic": "Photosynthesis takes IN Carbon — 'CO2 in, O2 out'."
+    },
+    {
+      "id": "q6",
+      "question": "What is the largest ocean on Earth?",
+      "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+      "answer": 3,
+      "explanation": "The Pacific Ocean is the largest and deepest ocean, covering about one-third of the Earth's surface.",
+      "mnemonic": "Pacific = 'Peaceful' and the biggest of them all."
+    },
+    {
+      "id": "q7",
+      "question": "In which year did India gain independence?",
+      "options": ["1942", "1945", "1947", "1950"],
+      "answer": 2,
+      "explanation": "India became independent from British rule on 15 August 1947.",
+      "mnemonic": "1947 — 'four-seven' rhymes with freedom in heaven."
+    },
+    {
+      "id": "q8",
+      "question": "What is the powerhouse of the cell?",
+      "options": ["Nucleus", "Ribosome", "Mitochondria", "Golgi body"],
+      "answer": 2,
+      "explanation": "Mitochondria produce most of the cell's energy in the form of ATP, hence called the powerhouse.",
+      "mnemonic": "Mighty Mitochondria = energy engine."
+    },
+    {
+      "id": "q9",
+      "question": "Which is the smallest prime number?",
+      "options": ["0", "1", "2", "3"],
+      "answer": 2,
+      "explanation": "2 is the smallest prime number and the only even prime.",
+      "mnemonic": "Two is tiny and even — the only even prime."
+    },
+    {
+      "id": "q10",
+      "question": "Who painted the Mona Lisa?",
+      "options": ["Vincent van Gogh", "Leonardo da Vinci", "Pablo Picasso", "Michelangelo"],
+      "answer": 1,
+      "explanation": "Leonardo da Vinci painted the Mona Lisa in the early 16th century.",
+      "mnemonic": "da Vinci — the 'Renaissance Man' behind the smiling lady."
+    },
+    {
+      "id": "q11",
+      "question": "What is the hardest natural substance on Earth?",
+      "options": ["Gold", "Iron", "Diamond", "Quartz"],
+      "answer": 2,
+      "explanation": "Diamond is the hardest known natural material, scoring 10 on the Mohs scale.",
+      "mnemonic": "Diamonds are forever — and hardest of all."
+    },
+    {
+      "id": "q12",
+      "question": "How many bones are there in the adult human body?",
+      "options": ["186", "206", "226", "246"],
+      "answer": 1,
+      "explanation": "An adult human body has 206 bones. Babies are born with about 270, many of which fuse together.",
+      "mnemonic": "206 — 'two-oh-six' bones to fix."
+    }
+  ]
+}
